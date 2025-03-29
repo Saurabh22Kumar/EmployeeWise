@@ -8,9 +8,7 @@
 
 ## 🌐 Live Demo
 
-🚀 [Click here to view the deployed site]([https://your-vercel-app-url.vercel.app](https://employee-wise-gamma.vercel.app/login))
-
-> ✏️ Replace the above link with your actual Vercel deployment link after publishing the app.
+🚀 web Site link : https://employee-wise-gamma.vercel.app/login
 
 ---
 
